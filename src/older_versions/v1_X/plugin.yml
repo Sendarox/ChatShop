@@ -1,0 +1,10 @@
+name: ChatShop
+version: 1.5
+main: eu.Sendarox.ChatShop.ChatShop
+
+commands:
+    ChatShop:
+        usage: /<command> <args>
+        description: ChatShop main Command
+        aliases: [cs]
+        
